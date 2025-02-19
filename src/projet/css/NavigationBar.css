@@ -1,0 +1,51 @@
+/* NavigationBar.css
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+  }
+  
+  nav a:hover {
+    color: #ff5733;
+    text-decoration: underline;
+  }
+  
+  /* Si la barre de navigation est dans un index ou une disposition latérale */
+  /* .index-nav {
+    display: flex;
+    flex-direction: column;
+    background-color: #444;
+    padding: 15px;
+    height: 100vh; /* Pleine hauteur de l'écran */
+  /* }
+  
+  .index-nav ul li {
+    margin-bottom: 15px;
+  }
+  
+  .index-nav ul li:last-child {
+    margin-bottom: 0;
+  } 
+    */
